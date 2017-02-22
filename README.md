@@ -1,2 +1,2 @@
-# litephp
-Php micro-framework
+# LitePhp
+PHP Micro Framework
